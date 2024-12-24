@@ -1,0 +1,2 @@
+# TeVueDjango
+learn v/d
